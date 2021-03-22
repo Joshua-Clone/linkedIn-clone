@@ -51,3 +51,14 @@ function App() {
 }
 
 export default App;
+
+
+// When You are ready to deploy App run the following in the terminal: 
+
+  //firebase login 
+  //firebase init 
+      // Choose Hosting 
+      // Choose this clone project as an option 
+      // You can add your GitHub but I did not 
+  // npm run build 
+  // firebase deploy 
